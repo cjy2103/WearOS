@@ -1,1 +1,2 @@
-WearOS세팅 ( )
+WearOS 세팅 (  )
+WearOS 디버깅 ( )
