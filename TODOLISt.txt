@@ -1,2 +1,2 @@
-WearOS 세팅 (  )
-WearOS 디버깅 ( )
+안드로이드(Android) - Glaxy Watch / WearOS 무선 디버깅 ( v )
+안드로이드(Android) - Glaxy Watch 개발자 옵션 활성화하기 ( v )
